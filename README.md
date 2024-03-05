@@ -43,6 +43,4 @@ The "Worldwide Wine Production Analysis" project leverages historical data to hi
 ## How to Contribute
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
 
----
 
-This README aims to provide a clear overview of the project's purpose, structure, and findings. It is tailored to engage users who may wish to explore the dataset further, replicate the analysis, or extend it with additional data or methodologies.
